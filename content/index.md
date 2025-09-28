@@ -1,14 +1,12 @@
 ---
-title: Causal Learning From Fine-Grained Vision Language Model (VLM) Representations 
-description: Demonstrating how latent, fine-grained representations from vision-language models (VLMs) can be leveraged for causal learning. In this application, I manipulate product design representations to understand how design choices impact customer sentiment and responses. 
-tags: ["AI", "VLM", "causal modeling", "foundation models"] 
-githubUrl: https://github.com/cvredenburgh representation-mining 
+title: Causal Learning From Fine-Grained VLM Representations
+description: This project explores how fine-grained representations from vision-language models (VLMs) can be leveraged for causal learning in product design. By mining latent embeddings, attributing outcomes to design features, and generating counterfactual variations, I investigate how design choices causally influence customer sentiment and response.
+tags: ["AI", "VLM", "causal modeling", "foundation models", "counterfactuals", "product concept evaluation"] 
+githubUrl: https://github.com/cvredenburgh/representation-mining
 date: 2025-07-25
 ---
-Causal Learning From Rich Vision Language Model (VLM) Representations
-This project builds on prior work using rich VLM representations (e.g. CLIP) for product understanding. I explore how these embeddings can be used for causal modeling — through attribution analysis, latent mining, and targeted counterfactual generation.
 
-# Causal Learning From Fine-Grained Vision Language Model (VLM) Representations 
+# Causal Learning From Fine-Grained VLM Representations
 
 🚧 In progress
 
